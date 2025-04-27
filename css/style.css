@@ -1,0 +1,39 @@
+
+body {
+    background-color: #07120A;
+    color: #E1E3E3;
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background-color: #07120A;
+    text-align: center;
+    padding: 1em;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+nav ul li a {
+    color: #24D441;
+    text-decoration: none;
+}
+section {
+    padding: 20px;
+}
+a.button {
+    background-color: #24D441;
+    color: #07120A;
+    padding: 10px 15px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+}
+ul {
+    margin-left: 20px;
+}
